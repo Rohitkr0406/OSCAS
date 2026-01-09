@@ -1,0 +1,5 @@
+{
+  "name": "OSCAS - Study Center Allocation",
+  "description": "Online Study Center Allocation System for universities to manage student preferences and automate seat assignment based on merit and capacity.",
+  "requestFramePermissions": []
+}
